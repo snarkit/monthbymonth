@@ -1,5 +1,5 @@
 MonthByMonth::Application.routes.draw do
-  #get "home/index"
+  resources :months
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
