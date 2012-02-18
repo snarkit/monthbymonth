@@ -1,10 +1,10 @@
-<%= form_for(@month) do |f| %>
-  <% if @month.errors.any? %>
+<%= form_for(@feature) do |f| %>
+  <% if @feature.errors.any? %>
     <div id="error_explanation">
-      <h2><%= pluralize(@month.errors.count, "error") %> prohibited this month from being saved:</h2>
+      <h2><%= pluralize(@feature.errors.count, "error") %> prohibited this feature from being saved:</h2>
 
       <ul>
-      <% @month.errors.full_messages.each do |msg| %>
+      <% @feature.errors.full_messages.each do |msg| %>
         <li><%= msg %></li>
       <% end %>
       </ul>
