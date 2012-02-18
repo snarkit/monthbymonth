@@ -1,0 +1,82 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<!-- DW6 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Untitled Document</title>
+<link rel="stylesheet" href="2col_leftNav.css" type="text/css">
+</head>
+<!-- The structure of this file is exactly the same as 2col_rightNav.html;
+     the only difference between the two is the stylesheet they use -->
+<body> 
+<div id="masthead"> 
+  <h1 id="siteName">Bendaf&eacute;  month by month </h1> 
+</div> 
+<!-- end masthead --> 
+<div id="content"> 
+  <h2 id="pageName">January</h2> 
+  <div id="month">
+    <div id="monthimage"><img src="MonthByMonth/January/January2012.jpg" alt=""  />      
+	<p>Oxalis on waste ground in Condeixa, January 2012</p>
+  	</div>
+    <div id="monthtext">
+      <p> 
+    January can be quite a pleasant month in central Portugal. It is not dull and rainy as the preceding months have been, nor is it as cold 
+	as February. There are many bright clear days. As for the countryside, it is unremarkable. The deciduous trees have  lost (or 
+	are still losing) their leaves, but there are so many evergreens that the forests don&rsquo;t look bare. Because it has been 
+	raining, grasses and weeds grow, so the ground is not bare either. But there is little colour, and very few plants are flowering. 
+	In our garden, we begin to see the birds coming to the bird table. The sparrows are always around, but at this season the robins, 
+	chaffinches and greenfinches become visible. </p>
+	<a href="#plants">January's plants</a>	</div> 
+  <div class="spacer"></div>
+  </div>
+  <a name="plants"></a>
+  <div class="feature"> 
+    <h3>Oxalis pes-caprae</h3>
+    <h5> (Bermuda buttercup)</h5> 
+    <a href="MonthByMonth/January/OXAPC1.jpg" class="livethumbnail"><img src="MonthByMonth/January/OXAPC1tn.jpg" alt="" ></a>
+	<a href="MonthByMonth/January/OXAPC2.jpg" class="livethumbnail"><img src="MonthByMonth/January/OXAPC2tn.jpg" alt="" ></a>
+    <a href="MonthByMonth/January/OXAPC3.jpg" class="livethumbnail"><img src="MonthByMonth/January/OXAPC3tn.jpg" alt="" ></a>    
+	<p><span class="latin">Oxalis pes-caprae</span> is a herbaceous weed, forming conspicuous patches of bright green leaves, above 
+	which stand long-stalked heads of striking yellow flowers. Flowering in winter, it provides colour which 
+	is otherwise in short supply. The flowers and leaves fold down at night, and then spread out again in the 
+	day. It is most often seen along roadsides and on waste ground, and sometimes in grassland or olive orchards. 
+	Though it sets seed elsewhere in the world, in Europe it propagates itself only vegetatively, by small bulbs 
+	formed underground. After flowering, the above-ground plant disappears altogether for the hotter, drier part 
+	of the year. The bulbs are easily spread along roads and paths.</p>
+	
+	<p>This plant is very characteristic of mild moist areas in Portugal not too far from the ocean. But it is 
+	not native to Portugal. It comes from South Africa, and has been introduced into most of the warmer parts of 
+	the world. Indeed, it is generally considered to be highly invasive, and also potentially harmful to 
+	livestock. In Portugal, however, it seems to be a relatively harmless weed, remaining confined to disturbed ground.	</p>
+	<p>All above-ground parts of the plant contain oxalic acid (named after the plant genus Oxalis), giving a sour 
+	acid taste as in docks, sorrels and rhubarb. The only native Oxalis in Europe (Oxalis acetosella) is known as 
+	wood-sorrel, but there is no general English name for Oxalis species. O. pes-caprae is known as Bermuda 
+	buttercup, presumably because it was introduced there very early, but Americans call it sourgrass. Its Latin 
+	name refers to �goat�'s foot�, because each of the leaflets of the clover-like leaves is divided into two oval 
+	lobes whose outline resembles a goat'�s foot print. In Portuguese, as in some other languages, it is referred to 
+	as a �trefoil�, &quot;trevo&quot;, because of the clover-like leaves. </p> 
+  </div> 
+  <div class="feature"> 
+<h3>Ulex jussieui</h3> <h5>(gorse) </h5>
+<a href="MonthByMonth/January/ULEJU1.jpg" class="livethumbnail"><img src="MonthByMonth/January/ULEJU1tn.jpg" alt="" width="100" height="100" border="0"></a>
+<a href="MonthByMonth/January/ULEJU2.jpg" class="livethumbnail"><img src="MonthByMonth/January/ULEJU2tn.jpg" alt="" width="100" height="100" border="0"></a>    <a href="MonthByMonth/January/ULEJU3.jpg"><img src="MonthByMonth/January/ULEJU3tn.jpg" alt="" width="100" height="100" border="0"></a>    
+<p> 
+    Gorse (Ulex spp.) is all over the place in Portugal, and lives up to its reputation of having some plants in 
+	flower at all times of year. The common gorse (<span class="latin">Ulex europaeus</span>) does occur around here, and mainly flowers later 
+	than January. What we see now is a local endemic, <span class="latin">Ulex jussiaei</span>, with quite large flowers mostly in long spikes and a low growing habit. 
+	It is common in the forests and mainly seen along roadsides. There are in fact some eight Ulex spp. which are 
+	endemic to Portugal or the western part of the Iberian peninsula. They are rather similar and difficult to 
+	distinguish without close examination, but their flowering periods are slightly different. The Portuguese name for this gorse is
+ 	tojo-dur&aacute;zio, stiff gorse. <br>
+</p> 
+  </div>
+  <div class="spacer"></div> 
+</div> 
+<!--end content --> 
+<!--end navbar --> 
+
+<br> 
+</body>
+</html>
