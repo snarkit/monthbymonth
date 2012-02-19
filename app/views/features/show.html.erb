@@ -1,0 +1,15 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Plant:</b>
+  <%= @feature.plant %>
+</p>
+
+<p>
+  <b>Desc:</b>
+  <%= @feature.desc %>
+</p>
+
+
+<%= link_to 'Edit', edit_feature_path(@feature) %> |
+<%= link_to 'Back', features_path %>
