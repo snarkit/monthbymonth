@@ -1,8 +1,14 @@
 MonthByMonth::Application.routes.draw do
+<<<<<<< HEAD
   resources :months
 
   resources :features
 
+=======
+  
+  resources :months
+  resources :features
+>>>>>>> working
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

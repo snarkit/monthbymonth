@@ -1,7 +1,15 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
 
 one:
+<<<<<<< HEAD
   desc: MyText
 
 two:
+=======
+  plant: MyText
+  desc: MyText
+
+two:
+  plant: MyText
+>>>>>>> working
   desc: MyText
